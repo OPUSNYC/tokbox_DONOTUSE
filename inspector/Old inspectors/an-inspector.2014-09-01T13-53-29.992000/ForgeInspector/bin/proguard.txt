@@ -1,0 +1,15 @@
+# view res/layout/video_chat_layout.xml #generated:17
+-keep class com.quickblox.module.videochat.views.CameraView { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class io.trigger.forge.android.core.ForgeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:8
+-keep class io.trigger.forge.android.core.ForgeApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class io.trigger.forge.android.core.ForgeContentProvider { <init>(...); }
+
+# view res/layout/video_chat_layout.xml #generated:24
+-keep class jp.co.cyberagent.android.gpuimage.OpponentGlSurfaceView { <init>(...); }
+
